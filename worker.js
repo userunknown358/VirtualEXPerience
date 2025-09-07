@@ -11,7 +11,8 @@ const filesToCache = [
 	"VirtualXPFavIcon_512x512.png",
 	"VirtualXPLoader.js",
 	"VirtualXPShare.png",
-	"VirtualXPVGA.bin"
+	"VirtualXPVGA.bin",
+	"VirtualXPDisk.vhd"
 ];
 
 const staticCacheName = "virtualxp-v1";
